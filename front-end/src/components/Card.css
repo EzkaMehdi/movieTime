@@ -1,15 +1,21 @@
 .card {
     width : 250px;
-    height : 600px;
+    height : 700px;
     margin-bottom: 10px;
 }
 
 
-.Card2 {
+/* .Card2 {
+    background:palegreen;
     width : 650px;
     height : 200px;
     font-size: 17px;
     margin-bottom: 10px;
     text-align: center;
     margin:auto;
-}
+} */
+
+/* 
+.Card2 img {
+    width: 100px;
+} */
